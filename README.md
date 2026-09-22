@@ -1,6 +1,6 @@
-# 帳跡 Veritrail｜可追溯會計工作台
+# 帳跡 LedgerTrail｜可追溯會計工作台
 
-正式對外名稱為「帳跡 Veritrail」；工程名為 AAAS-TW，簡稱 AAAS。
+正式對外名稱為「帳跡 LedgerTrail」；工程名為 AAAS-TW，簡稱 AAAS。
 
 **把來源文件、會計處理、人工覆核與交付結果接在一起，讓每個數字能追查依據與處理過程。**
 
